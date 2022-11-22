@@ -23,7 +23,8 @@ body {
     width: 100%;
 }
 #main {
-    padding: 20%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 #main p {
